@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ankit Gautam
 - 👀 I’m interested in Full stack web development and AI & ML
+-  I'm a Student and pursuing MCA in AI & ML from Amity University
 - 🌱 I’m currently learning Java, MERN Stack, SQL, AI & ML
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me
